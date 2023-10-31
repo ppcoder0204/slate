@@ -1,5 +1,25 @@
-title: Slate theme
+
 description: Slate is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-slate
+
+
+title: <p align="center"> Pooja Pal</p>
+logo: /assets/img/logo.png
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/pooja-pal-a6903529">LinkedIn</a> |
+  <a href="https://github.com/ppcoder0204">GitHub</a>
+  
+  <br>   
+  I am a cybersecurity professional with 15 years of experience in IT where dealing with IAM solutions and managing Org level access and protecting bearches.
+  IAM Solutions - SailPoint, IdentityIQ, IdentityNow,Okta
+  <br>
+  </p>
+
+
+
+theme: jekyll-theme-minimal
